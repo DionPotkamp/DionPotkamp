@@ -3,10 +3,9 @@
 # Hi there 👋
 My name is Dion Potkamp, and I am a software engineer.
 
-- 🔭 I’m currently working on my graduation internship
-- 🌱 I’m currently learning how to implement A/B testing for physical cards
+- 🔭 I just finished working on my graduation internship
+- 🌱 I learned how to implement A/B testing for physical cards
 - 👯 I’m looking to collaborate on repositories that I like to use
-- 🤔 I’m looking for help with finding work in the United States
 - 💬 Ask me about Costa Rica and Coffee
 - 📫 How to reach me: <a href="mailto:contact@dionpotkamp.nl">contact@dionpotkamp.nl</a>
 - 📎 Find my resume here: <a href="https://dionpotkamp.nl?ref=gh_readme">dionpotkamp.nl</a>
