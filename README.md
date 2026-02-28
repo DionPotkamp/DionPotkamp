@@ -2,30 +2,37 @@
 
 # Hi there, I'm Dion 👋
 
-Software engineer at a startup, building things with TypeScript all day —
-microservices in NestJS talking over gRPC, React on the frontend,
-and infrastructure managed through Pulumi on GCP.
+Software engineer at a startup, building things with TypeScript all day. Using microservices in NestJS over gRPC, with infrastructure managed through Pulumi on GCP and React on the frontend.
 
 ## 🛠️ What I work with
-TypeScript · React · NestJS · gRPC · Docker · GCP · Pulumi
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white)
+gRPC
 
 ## 🔭 Currently
 Working as a software engineer, shipping features and keeping secrets from leaking.
 
 ## 🌱 Always learning
-There's always a new corner of the stack to explore — lately a lot of cloud infra and all the design patterns.
+There's always a new corner of the stack to explore, lately a lot of design patterns and cloud infra.
 
-## 👯 Open to collaborating on
-Repos I actually use and believe in.
+## 🧠 A few things about me
+- 🎓 Spent a year as an exchange student at Widener University (straight A's, lots of adventures)
+- 🔐 Once got an internship by accidentally (on purpose) unenrolling a classmate. Long story...
+- 📜 PSM1 certified
+- 👯 Collaborating on repos I use and believe in
 
 ## ⚡ Outside the terminal
-- 🎵 Music is non-negotiable — always on, no exceptions
+- 🎵 Music is non-negotiable, it's always on, no exceptions
 - 🏋️ Gym regular (it balances out the sitting)
-- 📚 Got back into reading — currently going through Stephen King's catalog
+- 📚 Got back into reading and am currently going through Stephen King's catalog
 - 🗽 Adventuring through NYC
 
 ## ☕ Fun fact
 I can talk about Costa Rica and, specifically, coffee, longer than most people are comfortable with.
 
 ## 📫 Reach me
-contact@dionpotkamp.nl · [dionpotkamp.nl](https://dionpotkamp.nl?ref=gh-rm)
+contact&#64;dionpotkamp&#46;nl · [dionpotkamp.nl](https://dionpotkamp.nl?ref=gh-rm) · [linkedin.com/in/dionpotkamp](https://linkedin.com/in/dionpotkamp)
